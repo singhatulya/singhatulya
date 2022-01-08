@@ -1,12 +1,6 @@
-# Python program to demonstrate
-# circle drawing
-  
-  
+#How to make cirlce in Python Turtle  
 import turtle
-    
-# Initializing the turtle
 t = turtle.Turtle()
-  
-  
+#Size of the circle
 r = 50
 t.circle(r)
